@@ -1,4 +1,4 @@
-#sample C++ Template
+# sample C++ Template
 ```cpp
 #include <bits/stdc++.h>
 
