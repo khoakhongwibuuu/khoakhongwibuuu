@@ -26,7 +26,7 @@
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
-<tr border="none">
+<tr border="">
 <td width="50%" align="center">
 
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=khoakhongwibuuu&theme=swift&show_icons=true&count_private=true" />
