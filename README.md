@@ -1,15 +1,66 @@
-## 👋 Hi there!
-My name is Khoa and I'm a student at Hung Vuong High School.
 
-### 🔧 Technologies & Tools
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=5194f0)
-
-### 📈 GitHub Stats
-
-<div>
-    <a href=""#><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khoakhongwibuuu&layout=compact&theme=swift&langs_count=8" alt="" style="width: auto; height: 200;"/></a>
-    <a href=""#><img src="https://github-readme-stats.vercel.app/api?username=khoakhongwibuuu&show_icons=true&theme=swift" alt="" style="width: auto; height: 200;"/></a>
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Khoa</h1></summary>
+  </ul>
 </div>
 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=khoakhongwibuuu&layout=compact&theme=swift&langs_count=8) ![](https://github-readme-stats.vercel.app/api?username=khoakhongwibuuu&show_icons=true&theme=swift) -->
+<!--h2 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block"> I'm a student at Hung Vuong High School.</h2></summary>
+  </ul>
+</div>
+
+
+<!--Intro start-->
+- ☁️ I've keen interest in making bots. So,I'm learning **Discord.js**
+
+- 🔭 I’m currently a junior at **Hung Vuong Highschool.**
+
+- 📫 Feel free to reach me out **khoava.ti.2124@gmail.com**
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=khoakhongwibuuu&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=khoakhongwibuuu&theme=dark&hide_border=false" />
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=khoakhongwibuuu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
+
+</p>
+<!--- stats (end) -->
+
+
+<!--h1 without bottom border-->
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Use👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+<!--tech stack icons-->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,github,html,java,js,md,nodejs,py,vscode&perline=14" />
+  </a>
+</p>
+
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
