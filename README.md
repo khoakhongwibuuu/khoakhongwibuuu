@@ -18,10 +18,8 @@
 
 
 <!--Intro start-->
-- ☁️ I've keen interest in making bots. So,I'm learning **Discord.js**
-
-- 🔭 I’m currently a junior at **Hung Vuong Highschool.**
-
+- 📝 I'm learning to make games with **Unity**
+- ☁️ My passion in creating Discord bots is strong. I'm therefore exploring **discord.js**
 - 📫 Feel free to reach me out **khoava.ti.2124@gmail.com**
 
 <!--- stats & Trophy (start) -->
@@ -58,7 +56,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,github,html,java,js,md,nodejs,py,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,c,cpp,css,discord,github,html,java,js,md,nodejs,py,unity,vscode&perline=14" />
   </a>
 </p>
 
