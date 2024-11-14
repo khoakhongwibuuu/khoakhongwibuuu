@@ -12,7 +12,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block"> I'm a student at Hung Vuong High School.</h2></summary>
+    <summary><h2 style="display: inline-block"> I'm a freshman at University of Information Technology - Vietnam National University, Ho Chi Minh City</h2></summary>
   </ul>
 </div>
 
