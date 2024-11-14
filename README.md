@@ -18,9 +18,6 @@
 
 
 <!--Intro start-->
-- 📝 I'm learning to make games with **Unity**
-- ☁️ My passion in creating Discord bots is strong. I'm therefore exploring **discord.js**
-- 📫 Feel free to reach me out **khoava.ti.2124@gmail.com**
 
 <!--- stats & Trophy (start) -->
 <p align="center">
